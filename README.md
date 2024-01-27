@@ -410,7 +410,7 @@
 [😎 캔바 링크](https://www.canva.com/design/DAFz9CVPbIQ/V0Vt5LbQ50ublWIr1kfoPQ/view?utm_content=DAFz9CVPbIQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 #### 아키텍쳐
-![아키텍쳐구조도](https://github.com/soyeonnnb/dallim/assets/71217221/69ef0429-0a77-4305-85c6-38471557f8ca)
+![아키텍쳐구조도](https://github.com/qkrrlgus114/dallim/assets/121294224/892ffed3-c63a-4711-9025-27a837a29fbd)
 
 #### 디자인
 ![디자인](https://github.com/soyeonnnb/dallim/assets/71217221/208e7f63-553c-4aa7-9a7e-75177067fffe)
